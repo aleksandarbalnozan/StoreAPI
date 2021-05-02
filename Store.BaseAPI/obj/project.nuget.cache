@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2y3UuUkc2a7fpPIjV9wbLFHS76LT0gg+DFTsKPeo8ZLLJ8MJZM5Qpw/MOEE8MXr+PY0dxj1v7WgMKxssBsETUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\balno\\Desktop\\SimpleChatSockets\\Store.BaseAPI\\Store.BaseAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\balno\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\balno\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\balno\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\balno\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\balno\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\balno\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
